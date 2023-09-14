@@ -1,0 +1,1034 @@
+.index {
+    background-color: #3a002d;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.index .overlap-group-wrapper {
+    background-color: #3a002d;
+    overflow: hidden;
+    width: 1440px;
+    height: 1024px;
+}
+
+.index .overlap-group {
+    position: relative;
+    width: 1303px;
+    height: 964px;
+    top: 60px;
+    left: 146px;
+}
+
+.index .rectangle {
+    position: absolute;
+    width: 1294px;
+    height: 842px;
+    top: 104px;
+    left: 0;
+    background-color: #fdcbf2;
+    border-radius: 1px;
+}
+
+.index .text-wrapper {
+    position: absolute;
+    width: 767px;
+    top: 266px;
+    left: 25px;
+    font-family: "Zen Antique Soft", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 70px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.index .div {
+    position: absolute;
+    width: 391px;
+    height: 384px;
+    top: 43px;
+    left: 799px;
+    background-color: #c08db5;
+}
+
+.index .img {
+    position: absolute;
+    width: 391px;
+    height: 384px;
+    top: 0;
+    left: 767px;
+    object-fit: cover;
+}
+
+.index .p {
+    position: absolute;
+    width: 1096px;
+    top: 478px;
+    left: 25px;
+    font-family: "Yaldevi", sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.index .rectangle-2 {
+    position: absolute;
+    width: 1303px;
+    height: 280px;
+    top: 684px;
+    left: 0;
+    background-color: #c08db5;
+}
+
+.index .rectangle-3 {
+    position: absolute;
+    width: 220px;
+    height: 85px;
+    top: 781px;
+    left: 53px;
+}
+
+.index .text-wrapper-2 {
+    position: absolute;
+    width: 220px;
+    top: 794px;
+    left: 58px;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.index .rectangle-4 {
+    position: absolute;
+    width: 220px;
+    height: 85px;
+    top: 781px;
+    left: 381px;
+    background-color: #fdcbf2;
+}
+
+.index .text-wrapper-3 {
+    position: absolute;
+    width: 275px;
+    top: 808px;
+    left: 356px;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.index .text-wrapper-4 {
+    position: absolute;
+    top: 701px;
+    left: 563px;
+    font-family: "Zen Antique Soft", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.index .rectangle-5 {
+    position: absolute;
+    width: 220px;
+    height: 85px;
+    top: 781px;
+    left: 709px;
+    background-color: #fdcbf2;
+}
+
+.index .text-wrapper-5 {
+    position: absolute;
+    top: 808px;
+    left: 757px;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.index .rectangle-6 {
+    position: absolute;
+    width: 220px;
+    height: 85px;
+    top: 781px;
+    left: 1011px;
+    background-color: #fdcbf2;
+}
+
+.index .text-wrapper-6 {
+    position: absolute;
+    width: 255px;
+    top: 795px;
+    left: 995px;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.datos-personales {
+    background-color: #3a002d;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.datos-personales .div {
+    background-color: #3a002d;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+}
+
+.datos-personales .overlap {
+    position: absolute;
+    width: 1064px;
+    height: 634px;
+    top: 27px;
+    left: 198px;
+}
+
+.datos-personales .rectangle {
+    position: absolute;
+    width: 1016px;
+    height: 497px;
+    top: 137px;
+    left: 0;
+}
+
+.datos-personales .text-wrapper {
+    position: absolute;
+    width: 700px;
+    top: 0;
+    left: 172px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 76px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.datos-personales .NOMBRE-maria-paz {
+    position: absolute;
+    width: 999px;
+    top: 222px;
+    left: 65px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.datos-personales .overlap-group {
+    position: absolute;
+    width: 1440px;
+    height: 280px;
+    top: 744px;
+    left: 0;
+    background-image: url(./img/rectangle-9.svg);
+    background-size: 100% 100%;
+}
+
+.datos-personales .overlap-2 {
+    position: absolute;
+    width: 220px;
+    height: 85px;
+    top: 97px;
+    left: 67px;
+}
+
+.datos-personales .img {
+    position: absolute;
+    width: 220px;
+    height: 85px;
+    top: 0;
+    left: 0;
+}
+
+.datos-personales .text-wrapper-2 {
+    position: absolute;
+    top: 29px;
+    left: 71px;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.datos-personales .overlap-3 {
+    position: absolute;
+    width: 275px;
+    height: 85px;
+    top: 97px;
+    left: 369px;
+}
+
+.datos-personales .rectangle-2 {
+    position: absolute;
+    width: 220px;
+    height: 85px;
+    top: 0;
+    left: 28px;
+    background-color: #fdcbf2;
+}
+
+.datos-personales .text-wrapper-3 {
+    position: absolute;
+    width: 275px;
+    top: 29px;
+    left: 0;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.datos-personales .overlap-4 {
+    position: absolute;
+    width: 220px;
+    height: 85px;
+    top: 97px;
+    left: 763px;
+}
+
+.datos-personales .rectangle-3 {
+    position: absolute;
+    width: 220px;
+    height: 85px;
+    top: 0;
+    left: 0;
+    background-color: #fdcbf2;
+}
+
+.datos-personales .text-wrapper-4 {
+    position: absolute;
+    top: 29px;
+    left: 49px;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.datos-personales .overlap-5 {
+    position: absolute;
+    width: 255px;
+    height: 85px;
+    top: 97px;
+    left: 1086px;
+}
+
+.datos-personales .rectangle-4 {
+    position: absolute;
+    width: 220px;
+    height: 85px;
+    top: 0;
+    left: 18px;
+    background-color: #fdcbf2;
+}
+
+.datos-personales .text-wrapper-5 {
+    position: absolute;
+    width: 255px;
+    top: 16px;
+    left: 0;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.conocimientos {
+    background-color: #3a002d;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.conocimientos .div {
+    background-color: #3a002d;
+    overflow: hidden;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+}
+
+.conocimientos .overlap {
+    position: absolute;
+    width: 337px;
+    height: 512px;
+    top: 150px;
+    left: 0;
+    background-color: #fdcbf2;
+    border-radius: 57px;
+}
+
+.conocimientos .LENGUAJES-html-css {
+    position: absolute;
+    width: 240px;
+    top: 31px;
+    left: 53px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 42px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.conocimientos .text-wrapper {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 42px;
+    letter-spacing: 0;
+}
+
+.conocimientos .span {
+    font-size: 32px;
+}
+
+.conocimientos .overlap-group {
+    position: absolute;
+    width: 1440px;
+    height: 280px;
+    top: 744px;
+    left: 0;
+    background-image: url(./img/rectangle-9.svg);
+    background-size: 100% 100%;
+}
+
+.conocimientos .overlap-2 {
+    position: absolute;
+    width: 220px;
+    height: 85px;
+    top: 97px;
+    left: 98px;
+}
+
+.conocimientos .rectangle {
+    width: 220px;
+    height: 85px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    background-color: #fdcbf2;
+}
+
+.conocimientos .text-wrapper-2 {
+    position: absolute;
+    top: 29px;
+    left: 71px;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.conocimientos .overlap-3 {
+    position: absolute;
+    width: 220px;
+    height: 99px;
+    top: 97px;
+    left: 433px;
+}
+
+.conocimientos .text-wrapper-3 {
+    position: absolute;
+    width: 220px;
+    top: 11px;
+    left: 0;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.conocimientos .overlap-4 {
+    position: absolute;
+    width: 220px;
+    height: 85px;
+    top: 97px;
+    left: 783px;
+}
+
+.conocimientos .text-wrapper-4 {
+    position: absolute;
+    top: 24px;
+    left: 48px;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.conocimientos .overlap-5 {
+    position: absolute;
+    width: 255px;
+    height: 85px;
+    top: 97px;
+    left: 1114px;
+}
+
+.conocimientos .rectangle-2 {
+    width: 220px;
+    height: 85px;
+    left: 18px;
+    position: absolute;
+    top: 0;
+    background-color: #fdcbf2;
+}
+
+.conocimientos .text-wrapper-5 {
+    position: absolute;
+    width: 255px;
+    top: 16px;
+    left: 0;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.conocimientos .text-wrapper-6 {
+    position: absolute;
+    top: 26px;
+    left: 432px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 76px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.conocimientos .SOFTWARE-word-excel-wrapper {
+    position: absolute;
+    width: 337px;
+    height: 512px;
+    top: 150px;
+    left: 369px;
+    background-color: #fdcbf2;
+    border-radius: 57px;
+}
+
+.conocimientos .SOFTWARE-word-excel {
+    position: absolute;
+    width: 228px;
+    top: 31px;
+    left: 52px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 42px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.conocimientos .HABILIDADES-wrapper {
+    position: absolute;
+    width: 337px;
+    height: 512px;
+    top: 150px;
+    left: 732px;
+    background-color: #fdcbf2;
+    border-radius: 57px;
+}
+
+.conocimientos .HABILIDADES {
+    position: absolute;
+    width: 290px;
+    top: 20px;
+    left: 28px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 42px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.conocimientos .overlap-group-2 {
+    position: absolute;
+    width: 899px;
+    height: 512px;
+    top: 150px;
+    left: 1095px;
+}
+
+.conocimientos .rectangle-3 {
+    width: 337px;
+    height: 512px;
+    left: 0;
+    border-radius: 57px;
+    position: absolute;
+    top: 0;
+    background-color: #fdcbf2;
+}
+
+.conocimientos .IDIOMA-espa-ol {
+    position: absolute;
+    width: 885px;
+    top: 31px;
+    left: 14px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 42px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.conocimientos .text-wrapper-7 {
+    font-size: 40px;
+}
+.estudios {
+    background-color: #3a002d;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.estudios .div {
+    background-color: #3a002d;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+}
+
+.estudios .overlap-group {
+    position: absolute;
+    width: 1440px;
+    height: 280px;
+    top: 744px;
+    left: 0;
+    background-image: url(./img/rectangle-9.svg);
+    background-size: 100% 100%;
+}
+
+.estudios .overlap {
+    position: absolute;
+    width: 220px;
+    height: 85px;
+    top: 97px;
+    left: 87px;
+}
+
+.estudios .rectangle {
+    width: 220px;
+    height: 85px;
+    left: 0;
+    background-color: #fdcbf2;
+    position: absolute;
+    top: 0;
+}
+
+.estudios .text-wrapper {
+    position: absolute;
+    top: 29px;
+    left: 71px;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.estudios .overlap-2 {
+    position: absolute;
+    width: 220px;
+    height: 109px;
+    top: 97px;
+    left: 435px;
+}
+
+.estudios .text-wrapper-2 {
+    position: absolute;
+    width: 220px;
+    top: 21px;
+    left: 0;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.estudios .overlap-3 {
+    position: absolute;
+    width: 275px;
+    height: 85px;
+    top: 97px;
+    left: 755px;
+}
+
+.estudios .rectangle-2 {
+    width: 220px;
+    height: 85px;
+    left: 28px;
+    background-color: #fdcbf2;
+    position: absolute;
+    top: 0;
+}
+
+.estudios .text-wrapper-3 {
+    position: absolute;
+    width: 275px;
+    top: 29px;
+    left: 0;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.estudios .overlap-4 {
+    position: absolute;
+    width: 255px;
+    height: 85px;
+    top: 97px;
+    left: 1113px;
+}
+
+.estudios .rectangle-3 {
+    width: 220px;
+    height: 85px;
+    left: 18px;
+    background-color: #fdcbf2;
+    position: absolute;
+    top: 0;
+}
+
+.estudios .text-wrapper-4 {
+    position: absolute;
+    width: 255px;
+    top: 16px;
+    left: 0;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.estudios .overlap-5 {
+    position: absolute;
+    width: 1016px;
+    height: 587px;
+    top: 150px;
+    left: 225px;
+}
+
+.estudios .img {
+    width: 1016px;
+    height: 497px;
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+
+.estudios .instituto-nuestra-se {
+    position: absolute;
+    width: 849px;
+    top: 91px;
+    left: 45px;
+    font-family: "Crimson Pro", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.estudios .span {
+    font-family: "Crimson Pro", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+}
+
+.estudios .text-wrapper-5 {
+    font-size: 28px;
+}
+
+.estudios .text-wrapper-6 {
+    top: 23px;
+    left: 335px;
+    position: absolute;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.estudios .text-wrapper-7 {
+    top: 291px;
+    left: 290px;
+    position: absolute;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.estudios .universidad {
+    position: absolute;
+    width: 849px;
+    top: 361px;
+    left: 39px;
+    font-family: "Crimson Pro", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.estudios .text-wrapper-8 {
+    position: absolute;
+    top: 21px;
+    left: 545px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 76px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.experiencia-laboral {
+    background-color: #3a002d;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.experiencia-laboral .div {
+    background-color: #3a002d;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+}
+
+.experiencia-laboral .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 280px;
+    top: 744px;
+    left: 0;
+    background-image: url(./img/rectangle-9.svg);
+    background-size: 100% 100%;
+}
+
+.experiencia-laboral .overlap-group {
+    position: absolute;
+    width: 220px;
+    height: 85px;
+    top: 97px;
+    left: 99px;
+}
+
+.experiencia-laboral .rectangle {
+    position: absolute;
+    width: 220px;
+    height: 85px;
+    top: 0;
+    left: 0;
+    background-color: #fdcbf2;
+}
+
+.experiencia-laboral .text-wrapper {
+    position: absolute;
+    top: 29px;
+    left: 71px;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.experiencia-laboral .overlap-2 {
+    position: absolute;
+    width: 220px;
+    height: 99px;
+    top: 97px;
+    left: 439px;
+}
+
+.experiencia-laboral .text-wrapper-2 {
+    position: absolute;
+    width: 220px;
+    top: 11px;
+    left: 0;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.experiencia-laboral .overlap-3 {
+    position: absolute;
+    width: 275px;
+    height: 85px;
+    top: 97px;
+    left: 751px;
+}
+
+.experiencia-laboral .rectangle-2 {
+    position: absolute;
+    width: 220px;
+    height: 85px;
+    top: 0;
+    left: 28px;
+    background-color: #fdcbf2;
+}
+
+.experiencia-laboral .text-wrapper-3 {
+    position: absolute;
+    width: 275px;
+    top: 27px;
+    left: 0;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.experiencia-laboral .overlap-4 {
+    position: absolute;
+    width: 220px;
+    height: 85px;
+    top: 97px;
+    left: 1154px;
+}
+
+.experiencia-laboral .text-wrapper-4 {
+    position: absolute;
+    top: 32px;
+    left: 48px;
+    font-family: "Chonburi", cursive;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.experiencia-laboral .div-wrapper {
+    position: absolute;
+    width: 1016px;
+    height: 497px;
+    top: 155px;
+    left: 212px;
+    background-image: url(./img/Rectangle\ 13.png);
+    background-size: 100% 100%;
+}
+
+.experiencia-laboral .text-wrapper-5 {
+    position: absolute;
+    top: 220px;
+    left: 422px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.experiencia-laboral .text-wrapper-6 {
+    position: absolute;
+    width: 792px;
+    top: 36px;
+    left: 324px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 76px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
